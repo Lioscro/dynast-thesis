@@ -1,0 +1,1 @@
+pip install "velocyto==0.17.17"

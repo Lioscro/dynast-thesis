@@ -1,0 +1,4 @@
+[submodule "scNT/pipeline"]
+	path = scNT/pipeline
+	url = https://github.com/Lioscro/scNT-seq.git
+	branch = master
