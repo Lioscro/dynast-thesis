@@ -1,0 +1,24 @@
+[WARN][Sam2Tsv]Ignored 9121072 unmapped reads
+	Command being timed: "./pipeline/TC_calling/Step2_extract_alignment_info.sh scNT/SRR11683967/Step1/output_STAR_modified SRR11683967 4464 data/Mus_musculus.GRCm38.dna.primary_assembly.fa scNT/SRR11683967/Step2 scNT/SRR11683967/Step2_tmp data/jvarkit-2021.10.13 pipeline/TC_calling/scripts"
+	User time (seconds): 39718.27
+	System time (seconds): 1483.42
+	Percent of CPU this job got: 152%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 7:30:54
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 10089816
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 9
+	Minor (reclaiming a frame) page faults: 154893125
+	Voluntary context switches: 164006094
+	Involuntary context switches: 1676629
+	Swaps: 0
+	File system inputs: 3856
+	File system outputs: 388993512
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

@@ -1,0 +1,102 @@
+Add TC convertion to gene! Processed lines: 1000000
+Add TC convertion to gene! Processed lines: 2000000
+Add TC convertion to gene! Processed lines: 3000000
+Add TC convertion to gene! Processed lines: 4000000
+Add TC convertion to gene! Processed lines: 5000000
+Add TC convertion to gene! Processed lines: 6000000
+Add TC convertion to gene! Processed lines: 7000000
+Add TC convertion to gene! Processed lines: 8000000
+Add TC convertion to gene! Processed lines: 9000000
+Add TC convertion to gene! Processed lines: 10000000
+Add TC convertion to gene! Processed lines: 11000000
+Add TC convertion to gene! Processed lines: 12000000
+Add TC convertion to gene! Processed lines: 13000000
+Add TC convertion to gene! Processed lines: 14000000
+Add TC convertion to gene! Processed lines: 15000000
+Add TC convertion to gene! Processed lines: 16000000
+Add TC convertion to gene! Processed lines: 17000000
+Add TC convertion to gene! Processed lines: 18000000
+Add TC convertion to gene! Processed lines: 19000000
+Add TC convertion to gene! Processed lines: 20000000
+Add TC convertion to gene! Processed lines: 21000000
+Add TC convertion to gene! Processed lines: 22000000
+Add TC convertion to gene! Processed lines: 23000000
+Add TC convertion to gene! Processed lines: 24000000
+Add TC convertion to gene! Processed lines: 25000000
+Add TC convertion to gene! Processed lines: 26000000
+Add TC convertion to gene! Processed lines: 27000000
+Add TC convertion to gene! Processed lines: 28000000
+Add TC convertion to gene! Processed lines: 29000000
+Add TC convertion to gene! Processed lines: 30000000
+Add TC convertion to gene! Processed lines: 31000000
+Add TC convertion to gene! Processed lines: 32000000
+Add TC convertion to gene! Processed lines: 33000000
+Add TC convertion to gene! Processed lines: 34000000
+Add TC convertion to gene! Processed lines: 35000000
+Add TC convertion to gene! Processed lines: 36000000
+Add TC convertion to gene! Processed lines: 37000000
+Add TC convertion to gene! Processed lines: 38000000
+Add TC convertion to gene! Processed lines: 39000000
+Add TC convertion to gene! Processed lines: 40000000
+Add TC convertion to gene! Processed lines: 41000000
+Add TC convertion to gene! Processed lines: 42000000
+Add TC convertion to gene! Processed lines: 43000000
+Add TC convertion to gene! Processed lines: 44000000
+Add TC convertion to gene! Processed lines: 45000000
+Add TC convertion to gene! Processed lines: 46000000
+Add TC convertion to gene! Processed lines: 47000000
+Add TC convertion to gene! Processed lines: 48000000
+Add TC convertion to gene! Processed lines: 49000000
+Add TC convertion to gene! Processed lines: 50000000
+Add TC convertion to gene! Processed lines: 51000000
+Add TC convertion to gene! Processed lines: 52000000
+Add TC convertion to gene! Processed lines: 53000000
+Add TC convertion to gene! Processed lines: 54000000
+Add TC convertion to gene! Processed lines: 55000000
+Add TC convertion to gene! Processed lines: 56000000
+Add TC convertion to gene! Processed lines: 57000000
+Add TC convertion to gene! Processed lines: 58000000
+Add TC convertion to gene! Processed lines: 59000000
+Add TC convertion to gene! Processed lines: 60000000
+Add TC convertion to gene! Processed lines: 61000000
+Add TC convertion to gene! Processed lines: 62000000
+Add TC convertion to gene! Processed lines: 63000000
+Add TC convertion to gene! Processed lines: 64000000
+Add TC convertion to gene! Processed lines: 65000000
+Add TC convertion to gene! Processed lines: 66000000
+Add TC convertion to gene! Processed lines: 67000000
+Add TC convertion to gene! Processed lines: 68000000
+Add TC convertion to gene! Processed lines: 69000000
+Add TC convertion to gene! Processed lines: 70000000
+Add TC convertion to gene! Processed lines: 71000000
+Add TC convertion to gene! Processed lines: 72000000
+Add TC convertion to gene! Processed lines: 73000000
+Add TC convertion to gene! Processed lines: 74000000
+Add TC convertion to gene! Processed lines: 75000000
+Add TC convertion to gene! Processed lines: 76000000
+Add TC convertion to gene! Processed lines: 77000000
+Add TC convertion to gene! Processed lines: 78000000
+Add TC convertion to gene! Processed lines: 79000000
+	Command being timed: "./pipeline/TC_calling/Step3_substract_background_locus.sh scNT/SRR11683967/Step2 scNT/SRR12225122/Step2 SRR11683967 SRR12225122 4464 scNT/SRR11683967/Step1/output_STAR_modified scNT/SRR11683967/Step3 pipeline/TC_calling/scripts"
+	User time (seconds): 1373.43
+	System time (seconds): 65.98
+	Percent of CPU this job got: 176%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 13:36.06
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1119260
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 1
+	Minor (reclaiming a frame) page faults: 10909324
+	Voluntary context switches: 2162135
+	Involuntary context switches: 83281
+	Swaps: 0
+	File system inputs: 9070584
+	File system outputs: 8043128
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

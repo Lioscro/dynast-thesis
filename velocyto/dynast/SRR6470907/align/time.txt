@@ -1,0 +1,38 @@
+[2022-06-10 23:18:39,545]   DEBUG [main] Printing verbose output
+[2022-06-10 23:18:39,546]   DEBUG [main] Input args: Namespace(STAR_overrides='--limitBAMsortRAM 100000000000', command='align', fastqs=['data/SRR6470907_2.fastq.gz', 'data/SRR6470907_1.fastq.gz'], i='STAR_index', keep_tmp=False, list=False, nasc=False, o='dynast/SRR6470907/align', overwrite=True, strand='auto', t=16, tmp='dynast/SRR6470907/align_tmp', verbose=True, w=None, x='10xv2')
+[2022-06-10 23:18:39,546]   DEBUG [main] Creating dynast/SRR6470907/align_tmp directory
+[2022-06-10 23:18:39,547]    INFO [main] Auto-detected strandedness `forward` for technology `10xv2`. Use `--strand` to override.
+[2022-06-10 23:18:39,550]    INFO [align] Copying prepackaged whitelist for technology 10xv2 to dynast/SRR6470907/align/10xv2_whitelist.txt
+[2022-06-10 23:18:39,641]    INFO [align] STAR binary found at /home/kmin/miniconda3/lib/python3.8/site-packages/dynast/bins/linux/STAR/STAR
+[2022-06-10 23:18:39,642]    INFO [align] Aligning the following FASTQs with STAR
+[2022-06-10 23:18:39,642]    INFO [align]         data/SRR6470907_2.fastq.gz
+[2022-06-10 23:18:39,642]    INFO [align]         data/SRR6470907_1.fastq.gz
+[2022-06-10 23:18:39,659] WARNING [align] Decompressing data/SRR6470907_2.fastq.gz to /lab/solexa_weissman/kmin/git/dynast-thesis/velocyto/dynast/SRR6470907/align_tmp/tmpi3dvnru1 because STAR requires plaintext FASTQs
+[2022-06-10 23:24:02,035] WARNING [align] Decompressing data/SRR6470907_1.fastq.gz to /lab/solexa_weissman/kmin/git/dynast-thesis/velocyto/dynast/SRR6470907/align_tmp/tmpbu9zlm9_ because STAR requires plaintext FASTQs
+[2022-06-10 23:26:37,943]   DEBUG [align] Increasing maximum number of open file descriptors from 4096 to 4096
+[2022-06-10 23:26:37,944]    INFO [align] Starting alignment
+[2022-06-11 00:06:48,250]    INFO [main] Done
+[2022-06-11 00:06:48,251]   DEBUG [main] Removing dynast/SRR6470907/align_tmp directory
+	Command being timed: "dynast align -i STAR_index -o dynast/SRR6470907/align -x 10xv2 data/SRR6470907_2.fastq.gz data/SRR6470907_1.fastq.gz --STAR-overrides --limitBAMsortRAM 100000000000 --tmp dynast/SRR6470907/align_tmp --overwrite --verbose -t 16"
+	User time (seconds): 11899.87
+	System time (seconds): 521.33
+	Percent of CPU this job got: 428%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 48:17.23
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 95760548
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 149015953
+	Voluntary context switches: 10955629
+	Involuntary context switches: 932236
+	Swaps: 0
+	File system inputs: 47036472
+	File system outputs: 556070264
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

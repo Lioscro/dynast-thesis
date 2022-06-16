@@ -1,0 +1,57 @@
+Loading required package: reshape2
+Loading required package: tidyr
+
+Attaching package: ‘tidyr’
+
+The following object is masked from ‘package:reshape2’:
+
+    smiths
+
+Loading required package: dplyr
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Loading required package: Matrix
+
+Attaching package: ‘Matrix’
+
+The following objects are masked from ‘package:tidyr’:
+
+    expand, pack, unpack
+
+[1] "before trim"
+[1] 1058775
+[1] "post trim"
+[1] 2232
+`summarise()` has grouped output by 'gene', 'type'. You can override using the `.groups` argument.
+	Command being timed: "./pipeline/TC_calling/Step4_genetare_TC_matrix.sh scNT/SRR11683967/Step3 SRR11683967 4464 2232 scNT/SRR11683967/Step4 pipeline/TC_calling/scripts"
+	User time (seconds): 793.46
+	System time (seconds): 42.12
+	Percent of CPU this job got: 125%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 11:06.69
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 4033320
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 100
+	Minor (reclaiming a frame) page faults: 5090699
+	Voluntary context switches: 1900954
+	Involuntary context switches: 144320
+	Swaps: 0
+	File system inputs: 8295664
+	File system outputs: 1058816
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

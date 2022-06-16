@@ -1,0 +1,37 @@
+[2022-06-10 15:28:34,435]   DEBUG [main] Printing verbose output
+[2022-06-10 15:28:34,435]   DEBUG [main] Input args: Namespace(STAR_overrides='--soloCellFilter TopCells 462', command='align', fastqs=['data/SRR12225122_2.fastq.gz', 'data/SRR12225122_1.fastq.gz'], i='STAR_index', keep_tmp=False, list=False, nasc=False, o='dynast/SRR12225122/align', overwrite=True, strand='auto', t=32, tmp='tmp', verbose=True, w=None, x='dropseq')
+[2022-06-10 15:28:34,436]   DEBUG [main] Creating tmp directory
+[2022-06-10 15:28:34,441]    INFO [main] Auto-detected strandedness `unstranded` for technology `dropseq. Use `--strand` to override.
+[2022-06-10 15:28:34,444]    INFO [align] STAR binary found at /home/kmin/miniconda3/lib/python3.8/site-packages/dynast/bins/linux/STAR/STAR
+[2022-06-10 15:28:34,444]    INFO [align] Aligning the following FASTQs with STAR
+[2022-06-10 15:28:34,444]    INFO [align]         data/SRR12225122_2.fastq.gz
+[2022-06-10 15:28:34,444]    INFO [align]         data/SRR12225122_1.fastq.gz
+[2022-06-10 15:28:34,448] WARNING [align] Decompressing data/SRR12225122_2.fastq.gz to /lab/solexa_weissman/kmin/git/dynast-thesis/scNT/tmp/tmpti6hv5bp because STAR requires plaintext FASTQs
+[2022-06-10 15:29:52,403] WARNING [align] Decompressing data/SRR12225122_1.fastq.gz to /lab/solexa_weissman/kmin/git/dynast-thesis/scNT/tmp/tmpr3fi4vj4 because STAR requires plaintext FASTQs
+[2022-06-10 15:30:40,879]   DEBUG [align] Increasing maximum number of open file descriptors from 4096 to 4096
+[2022-06-10 15:30:40,879]    INFO [align] Starting alignment
+[2022-06-10 15:38:06,179]    INFO [main] Done
+[2022-06-10 15:38:06,179]   DEBUG [main] Removing tmp directory
+	Command being timed: "dynast align -i STAR_index --STAR-overrides --soloCellFilter TopCells 462 -o dynast/SRR12225122/align -x dropseq data/SRR12225122_2.fastq.gz data/SRR12225122_1.fastq.gz --overwrite --verbose -t 32"
+	User time (seconds): 5371.38
+	System time (seconds): 256.87
+	Percent of CPU this job got: 975%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 9:36.93
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 32014304
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 58426889
+	Voluntary context switches: 551488
+	Involuntary context switches: 575151
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 184692632
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
