@@ -168,7 +168,10 @@ scNT/scNT
 scNT/dynast
 velocyto/velocyto
 velocyto/dynast
-!scNT/data/accessions.txt
-!scNT/data/num_barcodes.txt
-!time.txt
 *.bam
+!accessions.txt
+!num_barcodes.txt
+!num_core_barcodes.txt
+!cells.csv
+!time.txt
+

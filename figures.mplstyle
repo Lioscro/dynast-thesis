@@ -1,0 +1,22 @@
+axes.titlesize: 12
+axes.labelsize: 12
+lines.linewidth: 1
+lines.markersize: 2
+xtick.labelsize: 12
+ytick.labelsize: 12
+legend.fontsize: 10
+legend.edgecolor: black
+legend.fancybox: False
+legend.title_fontsize: 10
+
+axes.spines.top: False
+axes.spines.right: False
+axes.linewidth: 0.8
+xtick.major.width: 0.8
+xtick.minor.width: 0.6
+ytick.major.width: 0.8
+ytick.minor.width: 0.6
+
+figure.subplot.wspace: 0.0
+figure.subplot.hspace: 0.0
+figure.titlesize: 12
